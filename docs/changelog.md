@@ -1,5 +1,16 @@
 # TraceIT Website Changelog
 
+## 2024-08-12
+
+### Deployment Fixes
+
+- Fixed deployment issues:
+  - Removed unused Image import from about/page.tsx
+  - Disabled ESLint rule for unescaped entities (react/no-unescaped-entities) to prevent build failures
+- Technical implementation:
+  - Updated .eslintrc.json configuration to disable problematic rule
+  - Ensured clean build process for Vercel deployments
+
 ## 2023-04-02
 
 ### Initial Website Launch
