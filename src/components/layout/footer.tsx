@@ -127,10 +127,10 @@ export default function Footer() {
               </li>
               <li>
                 <a
-                  href="mailto:hello@traceit.ca"
+                  href="mailto:aslan.farboud@gmail.com"
                   className="text-gray-600 hover:text-[#00bf63] transition-colors"
                 >
-                  hello@traceit.ca
+                  aslan.farboud@gmail.com
                 </a>
               </li>
             </ul>
