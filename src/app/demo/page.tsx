@@ -43,20 +43,37 @@ export default function DemoPage() {
     e.preventDefault();
     setIsSubmitting(true);
 
-    // Simulate form submission
-    setTimeout(() => {
-      setIsSubmitting(false);
-      setIsSubmitted(true);
-      setFormData({
-        name: "",
-        email: "",
-        company: "",
-        phone: "",
-        businessType: "",
-        employees: "",
-        message: "",
+    // Send form data to Formspree
+    fetch("https://formspree.io/f/xdkewava", {
+      method: "POST",
+      body: JSON.stringify(formData),
+      headers: {
+        "Content-Type": "application/json",
+      },
+    })
+      .then((response) => {
+        if (response.ok) {
+          setIsSubmitting(false);
+          setIsSubmitted(true);
+          setFormData({
+            name: "",
+            email: "",
+            company: "",
+            phone: "",
+            businessType: "",
+            employees: "",
+            message: "",
+          });
+        } else {
+          alert("Oops! There was a problem submitting the form.");
+          setIsSubmitting(false);
+        }
+      })
+      .catch((error) => {
+        console.error("Error:", error);
+        alert("Oops! There was a problem submitting the form.");
+        setIsSubmitting(false);
       });
-    }, 1500);
   };
 
   return (
