@@ -1,5 +1,15 @@
 # TraceIT Website Changelog
 
+## 2024-08-13
+
+### Added Web Analytics Integration
+
+- Integrated Vercel Web Analytics to track site usage and visitor metrics
+- Technical implementation:
+  - Installed @vercel/analytics package
+  - Added Analytics component to the root layout
+  - Set up for automatic tracking of page views and visitor counts
+
 ## 2024-08-12
 
 ### Deployment Fixes
