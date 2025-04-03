@@ -13,15 +13,14 @@ export default function Hero() {
               <span className="text-[#00bf63]">Made Simple</span>
             </h1>
             <p className="text-xl text-gray-600 mb-6">
-              Born from real-world experience with my mom's freeze-dried food
+              Developed from real-world experience with my parents' freeze-dried
               business, TraceIT helps Canadian food businesses meet CFIA
               traceability requirements without the complexity or high costs.
             </p>
             <p className="text-gray-600 mb-8">
               After three years and multiple iterations refining this system for
-              my mother's small business, I'm now offering this solution to help
-              other Canadian food producers focus on what they do best—creating
-              amazing food.
+              my parents' small business, I'm now offering this solution to help
+              other Canadian food businesses with their traceability needs.
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <Button

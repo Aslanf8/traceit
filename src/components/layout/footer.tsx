@@ -20,7 +20,7 @@ export default function Footer() {
             </Link>
             <p className="text-gray-600 mb-4">
               Simplifying CFIA compliance for Canadian food businesses, built
-              from real experience with my mom's freeze-dried food business.
+              from real experience with my parents' freeze-dried food business.
             </p>
           </div>
 
@@ -139,8 +139,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-200 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            © {currentYear} TraceIT. Created with ❤️ from solving real problems
-            in my mom's food business.
+            © {currentYear} TraceIT.
           </p>
           <div className="flex space-x-6">
             <Link

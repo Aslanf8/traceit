@@ -288,14 +288,14 @@ export default function Regulations() {
                 How TraceIT Helps
               </h3>
               <p className="text-gray-700 mb-4">
-                I created TraceIT to solve real challenges my mom faced in her
-                freeze-dried food business. Over three years and multiple
+                I created TraceIT to solve real challenges my parents faced in
+                their freeze-dried food business. Over three years and multiple
                 iterations, I've refined the system to help small Canadian food
-                businesses like hers easily meet CFIA traceability requirements
-                without complexity or high costs.
+                businesses like theirs easily meet CFIA traceability
+                requirements without complexity or high costs.
               </p>
               <p className="text-gray-700 mb-6">
-                See how the same solution that simplified my mom's compliance
+                See how the same solution that simplified my parents' compliance
                 can work for your business too. I've also collected{" "}
                 <Link
                   href="/resources"

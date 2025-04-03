@@ -12,7 +12,7 @@ export default function BenefitsPage() {
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Beyond CFIA compliance, TraceIT delivers real value to your food
-              business, just like it did for my mom's freeze-dried food
+              business, just like it did for my parents' freeze-dried food
               operation.
             </p>
           </div>
@@ -90,8 +90,8 @@ export default function BenefitsPage() {
               </h2>
               <p className="text-gray-600 mb-4">
                 I designed TraceIT to be affordable for small and medium
-                businesses like my mom's, with significant cost advantages
-                compared to other solutions.
+                businesses like my parents' business, with significant cost
+                advantages compared to other solutions.
               </p>
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-start">
@@ -139,7 +139,7 @@ export default function BenefitsPage() {
               <p className="text-gray-600 mb-4">
                 Beyond compliance, TraceIT streamlines your operations with
                 better tracking and management capabilities – I saw this
-                firsthand in my mom's business.
+                firsthand in my parents' business.
               </p>
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-start">
@@ -185,7 +185,7 @@ export default function BenefitsPage() {
               <p className="text-gray-600 mb-4">
                 TraceIT helps protect your business reputation and operations in
                 case of food safety incidents – crucial for small businesses
-                like my mom's.
+                like my parents' business.
               </p>
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-start">
@@ -277,7 +277,7 @@ export default function BenefitsPage() {
               </h2>
               <p className="text-gray-600 mb-4">
                 Being fully CFIA compliant opens doors to more markets and
-                customers – helping my mom's business grow, and yours too.
+                customers – helping my parents' business grow, and yours too.
               </p>
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-start">
@@ -310,7 +310,7 @@ export default function BenefitsPage() {
             </h2>
 
             <p className="text-xl text-black mb-8">
-              See how the same solution that helped my mom's business can
+              See how the same solution that helped my parents' business can
               transform your approach to CFIA compliance and food safety
               management.
             </p>

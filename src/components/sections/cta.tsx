@@ -10,9 +10,10 @@ export default function CTA() {
             Ready to simplify your CFIA compliance?
           </h2>
           <p className="text-xl text-gray-600 mb-8">
-            After three years of real-world testing in my mom's freeze-dried
-            food business, TraceIT is helping other small Canadian food
-            businesses save time and reduce stress.
+            After three years of real-world testing in my parents' freeze-dried
+            food business, TraceIT is helping Canadian food businesses meet
+            their traceability requirements without complex systems or high
+            costs.
           </p>
           <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
             <Button
@@ -32,9 +33,9 @@ export default function CTA() {
             </Button>
           </div>
           <p className="mt-8 text-gray-600">
-            Have questions? I'd be happy to chat about how TraceIT can work for
-            your specific food business needs. I understand the challenges
-            you're facing because I've helped solve them firsthand.
+            Have questions? I'd be happy to discuss how TraceIT can work for
+            your specific food business. No $5,000 implementation fees or
+            expensive monthly subscriptions - just practical traceability tools.
           </p>
         </div>
       </div>

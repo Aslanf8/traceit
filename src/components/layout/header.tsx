@@ -21,6 +21,7 @@ export default function Header() {
         <Link href="/" className="flex items-center">
           <Image
             src="/main-logo-prod.svg"
+            // src="/main-logo-prodCopy of Untitled (120 x 120 px) (1).png"
             alt="TraceIT Logo"
             width={200}
             height={50}

@@ -5,7 +5,7 @@ export default function Story() {
         <div className="max-w-3xl mx-auto text-center mb-12">
           <h2 className="text-3xl font-bold mb-4">My Story</h2>
           <p className="text-xl text-gray-600">
-            How my mom's freeze-dried food business inspired TraceIT
+            How my parents' freeze-dried food business inspired TraceIT
           </p>
         </div>
 
@@ -17,11 +17,11 @@ export default function Story() {
                   The Beginning
                 </h3>
                 <p className="text-gray-700">
-                  Three years ago, I watched my mom struggle with CFIA
-                  traceability requirements while running her freeze-dried food
-                  business. Despite her passion for creating amazing products,
-                  the administrative burden of compliance was taking precious
-                  time away from what she loved doing.
+                  Three years ago, my parents started a small freeze-dried food
+                  business. As they grew, they found themselves spending more
+                  and more time managing the CFIA traceability requirements
+                  instead of running their business. The administrative work was
+                  taking up nearly 40% of their weekly hours.
                 </p>
               </div>
 
@@ -30,11 +30,20 @@ export default function Story() {
                   The Problem
                 </h3>
                 <p className="text-gray-700">
-                  My mom, like many small food business owners, was using
-                  spreadsheets and paper records that were time-consuming and
-                  error-prone. The existing software solutions were either too
-                  expensive, too complex, or didn't address the specific needs
-                  of small Canadian food operations.
+                  My parents tracked everything using Excel spreadsheets and
+                  paper logs. Each production batch required manually copying
+                  ingredient lot numbers, updating multiple files, and
+                  cross-referencing previous records. When CFIA requested a mock
+                  recall, it took them almost two full days to compile all the
+                  necessary information. When they looked for software
+                  solutions, they received quotes ranging from $5,000 to $10,000
+                  for implementation plus $200-500 monthly fees. These prices
+                  were completely disconnected from what a small food business
+                  could afford. Most small producers either can't justify this
+                  expense or end up paying for complex systems with features
+                  they'll never use. This huge gap between what regulators
+                  require and what small businesses can practically implement is
+                  exactly what TraceIT addresses.
                 </p>
               </div>
 
@@ -43,11 +52,12 @@ export default function Story() {
                   The Solution
                 </h3>
                 <p className="text-gray-700">
-                  With my software development background, I built the first
-                  version of TraceIT specifically for her business. Over the
-                  past three years, we've refined the system through three major
-                  iterations, each time making it more intuitive and effective
-                  based on real-world use in her daily operations.
+                  I built the first version of TraceIT over a weekend to help
+                  track their ingredient lots and production batches. It was
+                  basic but immediately cut their paperwork time in half. Over
+                  three years, we've improved it based on their daily use -
+                  adding barcode scanning, one-click recall reports, and
+                  supplier management. What used to take days now takes minutes.
                 </p>
               </div>
 
@@ -56,20 +66,12 @@ export default function Story() {
                   The Mission
                 </h3>
                 <p className="text-gray-700">
-                  Now that TraceIT has proven its value in my mom's business, I
-                  want to help other small and medium Canadian food producers
-                  navigate compliance without stress or excessive cost. I'm not
-                  a big company—just one developer with a practical solution to
-                  a real problem I've seen firsthand.
-                </p>
-              </div>
-
-              <div className="pt-4 border-t border-gray-200 mt-6">
-                <p className="italic text-gray-600">
-                  "I created TraceIT to solve a problem my mom faced in her
-                  freeze-dried food business. After seeing how much it helped
-                  her, I knew other small food businesses in Canada could
-                  benefit from it too."
+                  Now that TraceIT has been tested in a real business for three
+                  years, I'm making it available to other Canadian food
+                  producers who face the same challenges. I'm not a large
+                  company with investors or sales teams - just someone who
+                  solved a problem and wants to share that solution with others
+                  who might find it useful.
                 </p>
               </div>
             </div>

@@ -11,9 +11,9 @@ export default function AboutPage() {
               My TraceIT Story
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              The journey of creating a simple solution for my mom's
+              The journey of creating a simple solution for my parents'
               freeze-dried food business that grew into something that can help
-              all Canadian food producers.
+              Canadian food businesses with traceability.
             </p>
           </div>
         </div>
@@ -26,24 +26,25 @@ export default function AboutPage() {
               <div className="col-span-2">
                 <h2 className="text-3xl font-bold mb-6">How It Started</h2>
                 <p className="text-gray-600 mb-4">
-                  TraceIT began three years ago when I watched my mom struggle
-                  with the overwhelming traceability requirements after the
-                  Canadian Food Inspection Agency introduced the Safe Food for
-                  Canadians Regulations (SFCR) for her freeze-dried food
-                  business.
+                  TraceIT began three years ago when my parents started a small
+                  freeze-dried food business and quickly found themselves
+                  overwhelmed with the traceability requirements mandated by the
+                  Canadian Food Inspection Agency's Safe Food for Canadians
+                  Regulations (SFCR).
                 </p>
                 <p className="text-gray-600 mb-4">
-                  As she tried to manage her small business, the administrative
-                  burden of compliance was taking precious time away from what
-                  she loved doing—creating amazing freeze-dried products. The
-                  existing solutions were either too expensive or ridiculously
-                  complex for a small operation like hers.
+                  The administrative work was taking up nearly 40% of their
+                  weekly hours. When they looked for software solutions, they
+                  received quotes ranging from $5,000 to $10,000 for
+                  implementation plus $200-500 monthly fees - prices that were
+                  completely disconnected from what a small business could
+                  justify spending.
                 </p>
                 <p className="text-gray-600">
-                  With my background in software development, I decided to build
-                  something specifically for her business—something simple,
-                  practical, and affordable that would handle all the CFIA
-                  requirements without the complexity.
+                  With my background in software development, I built the first
+                  version of TraceIT over a weekend to help track their
+                  ingredient lots and production batches. It was basic but
+                  immediately cut their paperwork time in half.
                 </p>
               </div>
               <div className="bg-[#00bf63]/5 p-6 rounded-lg">
@@ -58,8 +59,8 @@ export default function AboutPage() {
 
                 <h3 className="font-bold mb-3">Mission</h3>
                 <p>
-                  Helping food producers focus on their craft while easily
-                  meeting regulatory requirements
+                  Helping food businesses meet regulatory requirements without
+                  excessive cost or complexity
                 </p>
               </div>
             </div>
@@ -72,10 +73,10 @@ export default function AboutPage() {
                     User-Focused Design
                   </h3>
                   <p className="text-gray-600">
-                    I built TraceIT with my mom in mind, focusing on simplicity
-                    and efficiency. Every feature was designed to minimize the
-                    time spent on record-keeping while ensuring complete CFIA
-                    compliance.
+                    I built TraceIT with my parents in mind, focusing on
+                    simplicity and efficiency. Every feature was designed to
+                    minimize the time spent on record-keeping while ensuring
+                    complete CFIA compliance.
                   </p>
                 </div>
                 <div>
@@ -83,10 +84,10 @@ export default function AboutPage() {
                     Continuous Refinement
                   </h3>
                   <p className="text-gray-600">
-                    Over the past three years, I've refined the system through
-                    three major iterations, each time making it more intuitive
-                    and effective based on real-world use in my mom's daily
-                    operations.
+                    Over three years, we've improved the system based on daily
+                    use - adding barcode scanning, one-click recall reports, and
+                    supplier management. What used to take days now takes
+                    minutes.
                   </p>
                 </div>
                 <div>
@@ -94,9 +95,10 @@ export default function AboutPage() {
                     Affordability
                   </h3>
                   <p className="text-gray-600">
-                    From day one, I've been committed to keeping TraceIT
-                    affordable. I believe that food safety compliance shouldn't
-                    be a luxury that only large corporations can afford.
+                    From day one, I've been committed to making TraceIT
+                    affordable for small businesses. The huge gap between what
+                    regulators require and what small producers can practically
+                    implement is exactly what TraceIT addresses.
                   </p>
                 </div>
                 <div>
@@ -127,9 +129,10 @@ export default function AboutPage() {
                     </h3>
                     <p className="text-gray-600">
                       I began by studying the CFIA requirements in depth and
-                      observing my mom's daily workflow to understand exactly
-                      where the pain points were. This hands-on experience
-                      shaped my understanding of what was truly needed.
+                      observing my parents' daily workflow to identify the
+                      specific challenges they faced. When CFIA requested a mock
+                      recall, it took them almost two full days to compile all
+                      the necessary information.
                     </p>
                   </div>
                 </div>
@@ -146,7 +149,9 @@ export default function AboutPage() {
                       The first version of TraceIT focused on solving the core
                       traceability requirements: tracking one step back and one
                       step forward, food identification, and record keeping. My
-                      mom was the first and most valuable beta tester.
+                      parents were the first and most valuable testers,
+                      providing immediate feedback on what worked and what
+                      didn't.
                     </p>
                   </div>
                 </div>
@@ -166,7 +171,7 @@ export default function AboutPage() {
                       added reporting capabilities, enhanced the data management
                       features, and expanded to support different types of food
                       products—all based on real feedback from daily use in my
-                      mom's business.
+                      parents' business.
                     </p>
                   </div>
                 </div>
@@ -181,10 +186,10 @@ export default function AboutPage() {
                     <h3 className="text-xl font-bold mb-2">Today's TraceIT</h3>
                     <p className="text-gray-600">
                       Today's version of TraceIT represents three years of
-                      real-world testing and refinement. It's a mature,
-                      battle-tested solution that I'm now making available to
-                      help other small food businesses across Canada meet their
-                      traceability requirements efficiently and affordably.
+                      real-world testing in an actual business. It's a mature,
+                      practical solution that I'm now making available to help
+                      other Canadian food businesses meet their traceability
+                      requirements efficiently and affordably.
                     </p>
                   </div>
                 </div>
@@ -193,14 +198,14 @@ export default function AboutPage() {
 
             <div className="bg-[#00bf63]/5 p-8 rounded-lg text-center">
               <h2 className="text-3xl font-bold mb-4">
-                Try the Solution That Helped My Mom's Business
+                Try TraceIT For Your Business
               </h2>
               <p className="text-gray-600 max-w-2xl mx-auto mb-6">
-                After seeing how much TraceIT helped simplify compliance for my
-                mom's freeze-dried food business, I know it can help your food
-                business too. I'm excited to share this practical solution with
-                other Canadian food producers who want to focus on creating
-                amazing food—not paperwork.
+                After seeing how TraceIT simplified compliance for my parents'
+                freeze-dried food business, I believe it can help your business
+                too. I'm not a large company with investors or sales teams -
+                just someone who solved a problem and wants to share that
+                solution with other Canadian food businesses.
               </p>
               <Button
                 asChild

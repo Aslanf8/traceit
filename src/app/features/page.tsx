@@ -23,7 +23,7 @@ export default function FeaturesPage() {
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               I designed every feature of TraceIT to address a specific CFIA
               traceability requirement, making compliance simple for Canadian
-              food businesses like my mom's.
+              food businesses like my parents' business.
             </p>
           </div>
         </div>
