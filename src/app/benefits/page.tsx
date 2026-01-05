@@ -89,15 +89,19 @@ export default function BenefitsPage() {
                 Cost Savings
               </h2>
               <p className="text-gray-600 mb-4">
-                I designed TraceIT to be affordable for small and medium
-                businesses like my parents' business, with significant cost
-                advantages compared to other solutions.
+                With my professional experience in AI and LLMs, combined with
+                having built TraceIT for my parents' business, I can build you a
+                custom solution that's perfectly tailored to your business at a
+                fraction of traditional software development costs. This is just
+                me, Aslan Farboud, doing this on the side—if it seems like a
+                good fit, I'd be happy to help.
               </p>
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-start">
                   <span className="text-[#00bf63] mr-2">•</span>
                   <span>
-                    No need for expensive consultants or complex systems
+                    Custom solutions built 10x faster with AI, meaning lower
+                    costs for you
                   </span>
                 </li>
                 <li className="flex items-start">

@@ -107,18 +107,20 @@ export default function TermsOfService() {
             </p>
 
             <h2 className="text-2xl font-semibold mt-8 mb-4">
-              6. Subscription and Payment Terms
+              6. Payment Terms
             </h2>
             <p>
-              Access to certain features of the Services may require payment of
-              fees. All fees are exclusive of all taxes, levies, or duties
-              imposed by taxing authorities, and you shall be responsible for
-              payment of all such taxes, levies, or duties.
+              Custom development services and access to certain features of the
+              Services may require payment of fees. All fees are exclusive of
+              all taxes, levies, or duties imposed by taxing authorities, and
+              you shall be responsible for payment of all such taxes, levies, or
+              duties. Payment terms for custom development projects will be
+              agreed upon in writing before work begins.
             </p>
             <p>
-              Subscriptions automatically renew unless cancelled at least 30
-              days before the end of the current subscription period. You may
-              cancel your subscription at any time by contacting us.
+              For ongoing services, specific terms will be outlined in your
+              service agreement. You may contact us at any time to discuss
+              modifications to your service arrangement.
             </p>
 
             <h2 className="text-2xl font-semibold mt-8 mb-4">

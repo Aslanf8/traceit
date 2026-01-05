@@ -36,14 +36,16 @@ export default function Story() {
                   cross-referencing previous records. When CFIA requested a mock
                   recall, it took them almost two full days to compile all the
                   necessary information. When they looked for software
-                  solutions, they received quotes ranging from $5,000 to $10,000
-                  for implementation plus $200-500 monthly fees. These prices
-                  were completely disconnected from what a small food business
-                  could afford. Most small producers either can't justify this
-                  expense or end up paying for complex systems with features
-                  they'll never use. This huge gap between what regulators
-                  require and what small businesses can practically implement is
-                  exactly what TraceIT addresses.
+                  solutions, they found that traditional options were
+                  prohibitively expensive for a small food business. Most small
+                  producers either can't justify the expense or end up paying
+                  for complex systems with features they'll never use. This huge
+                  gap between what regulators require and what small businesses
+                  can practically implement is exactly what I address. With my
+                  professional experience in AI and LLMs, combined with having
+                  built TraceIT for my parents, I can now build custom solutions
+                  10x faster and more affordably than traditional software
+                  development.
                 </p>
               </div>
 

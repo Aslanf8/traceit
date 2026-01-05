@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "TraceIT Pricing | Affordable CFIA Compliance",
+  title: "TraceIT Custom Solutions | AI-Powered CFIA Compliance",
   description:
-    "Simple, transparent pricing plans designed to make CFIA traceability compliance accessible for food businesses of all sizes.",
+    "Get a custom traceability solution built for your business. With AI-powered development, I can build faster and more affordably than traditional software development.",
 };
 
 export default function PricingLayout({

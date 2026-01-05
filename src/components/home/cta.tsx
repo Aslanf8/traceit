@@ -35,7 +35,9 @@ export default function CTA() {
           </div>
 
           <p className="mt-8 text-blue-100">
-            No long-term contracts. Straightforward pricing. Expert support.
+            Custom solutions built with AI. Faster development. More affordable
+            than traditional software. Expert support from someone who's built
+            this before.
           </p>
         </div>
       </div>

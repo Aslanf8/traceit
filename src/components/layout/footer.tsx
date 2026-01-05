@@ -134,6 +134,29 @@ export default function Footer() {
                 </a>
               </li>
             </ul>
+            <h3 className="font-medium text-gray-900 mb-4 mt-6">Credentials</h3>
+            <ul className="space-y-2">
+              <li>
+                <a
+                  href="https://www.aslanfarboud.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-600 hover:text-[#00bf63] transition-colors"
+                >
+                  Portfolio
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://www.linkedin.com/in/aslan-farboud-1b59ab224/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-gray-600 hover:text-[#00bf63] transition-colors"
+                >
+                  LinkedIn
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
 

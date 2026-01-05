@@ -109,6 +109,32 @@ export default function ContactPage() {
                     </CardDescription>
                   </CardContent>
                 </Card>
+
+                <Card>
+                  <CardHeader className="pb-3">
+                    <CardTitle className="text-lg">My Credentials</CardTitle>
+                  </CardHeader>
+                  <CardContent className="space-y-3">
+                    <CardDescription className="text-base">
+                      <a
+                        href="https://www.aslanfarboud.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-[#00bf63] hover:underline block mb-2"
+                      >
+                        View My Portfolio
+                      </a>
+                      <a
+                        href="https://www.linkedin.com/in/aslan-farboud-1b59ab224/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-[#00bf63] hover:underline block"
+                      >
+                        Connect on LinkedIn
+                      </a>
+                    </CardDescription>
+                  </CardContent>
+                </Card>
               </div>
             </div>
 

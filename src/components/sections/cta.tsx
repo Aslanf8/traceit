@@ -33,9 +33,13 @@ export default function CTA() {
             </Button>
           </div>
           <p className="mt-8 text-gray-600">
-            Have questions? I'd be happy to discuss how TraceIT can work for
-            your specific food business. No $5,000 implementation fees or
-            expensive monthly subscriptions - just practical traceability tools.
+            Have questions? I'd be happy to discuss how we can build a custom
+            traceability solution for your specific food business. With my
+            professional experience in AI and LLMs, combined with having built
+            TraceIT for my parents' business, I can build you a solution 10x faster
+            and more affordably than traditional software development. This is just
+            me, Aslan Farboud, doing this on the side—if it seems like a good fit,
+            I'd be happy to help.
           </p>
         </div>
       </div>
